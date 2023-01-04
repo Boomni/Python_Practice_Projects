@@ -5,9 +5,13 @@ ___
 _The best way to learn programming they say, is to build projects :)._
 
 ## Description:
-This repository is created specifically for project based learning.\
-I'll build some projects to test my skills in python and your welcome to contribute and add some more projects.\
-Together we code, together we get better :)
+This repository is created specifically for project based learning.
+
+I'll build some projects to test my skills in python
+
+Your welcome to contribute and add some more projects.
+
+**_Together we code, together we get better :)_**
 ___
 
 ## Python Projects to be built
@@ -36,3 +40,4 @@ ___
 - Weather Program
 - Code a Discord Bot with Python \- Host for Free in the Cloud
 - Space invaders game
+___
