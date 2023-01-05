@@ -15,9 +15,10 @@ Your welcome to contribute and add some more projects.
 ___
 
 ## Python Projects to be built
-|#| Projects | Description | Location | How to run|
-|---|---|---|---|---|---|
-|1|Mad Libs| --- |[mad_libs](./mad_libs)|./mad_libs.py
+
+| # | Projects | Description | Location |
+| --- | --- | --- | --- |
+| 1 | Mad Libs | [Mad Libs](./mad_libs/README.md) |[mad_libs](./mad_libs)|
 |2|Guess the Number Game (computer)|
 |3|Guess the Number Game (user)
 |4|Rock, paper, scissors
