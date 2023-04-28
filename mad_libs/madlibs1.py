@@ -62,7 +62,7 @@ template, words = madlib_type()
 # Ask the user to input the necessary words
 values = {}
 for word in words:
-  values[word] = input("Enter a {}: ".format(word))
+  values[word] = input(f"Enter a {word}: ")
 
 # Insert the user's input into the template
 madlib = template.format(**values)
